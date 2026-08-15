@@ -9,8 +9,9 @@ This includes input, output, and basic Operations on arrays.
 
 ### Skills Used
 - Python
-- - Git &github
+-  Git &github
  
   ###college
-  [Adarsh college of engnieering]
-  Let's connect:[]
+  Adarsh college 
+
+  Let's connect:[added linkedIn later]
